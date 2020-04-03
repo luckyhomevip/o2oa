@@ -78,21 +78,21 @@ O2OA自带的H2数据库是一个内嵌式的内存数据库，适合用于开�
 另外，O2OA提供数据定期备份和恢复的能力，建议您开启正式环境的数据定期备份的功能，以确保数据库异常时可以进行数据恢复。
 
 
-# 最新版本服务器安装包下载[o2server_V4.3763]\:
+# 最新版本服务器安装包下载[o2server_V4.3.3]\:
 
-windows 64Bit : http://download.o2oa.net/download/o2server_20200316073520_windows.zip
+windows 64Bit : http://download.o2oa.net/download/o2server-windows-4.3.3.zip
 
-Linux 64Bit : http://download.o2oa.net/download/o2server_20200316073520_linux.zip
+Linux 64Bit : http://download.o2oa.net/download/o2server-linux-4.3.3.zip
 
-MacOS : http://download.o2oa.net/download/o2server_20200316073520_macos.zip
+MacOS : http://download.o2oa.net/download/o2server-macos-4.3.3.zip
 
-AIX : http://download.o2oa.net/download/o2server_20200316073520_aix.zip
+AIX : http://download.o2oa.net/download/o2server-aix-4.3.3.zip
 
-中标麒麟（龙芯）：http://download.o2oa.net/download/o2server_20200316073520_neokylin_loongson.zip
+中标麒麟（龙芯）：http://download.o2oa.net/download/o2server-neokylin-loongson-4.3.3.zip
 
-银河麒麟（飞腾）：http://download.o2oa.net/download/o2server_20200316073520_kylinos_phytium.zip
+银河麒麟（飞腾）：http://download.o2oa.net/download/o2server-kylinos-phytium-4.3.3.zip
 
-raspberrypi(树莓派)：http://download.o2oa.net/download/o2server_20200316073520_raspberrypi.zip
+raspberrypi(树莓派)：http://download.o2oa.net/download/o2server-raspberrypi-4.3.3.zip
 
 
 
@@ -103,7 +103,7 @@ raspberrypi(树莓派)：http://download.o2oa.net/download/o2server_202003160735
 腾讯微云：https://share.weiyun.com/5krUMjj
 
 
-# 最新版本 v4.3763\:
+# 最新版本 v4.3.3\:
 
 新增功能：
 
